@@ -1,4 +1,7 @@
 {
     "python.analysis.autoImportCompletions": true,
-    "python.defaultInterpreterPath": "/usr/bin/python3"
+    "python.defaultInterpreterPath": "/usr/bin/python3",
+    "editor.fontFamily": "JetBrains Mono,'Regular', monospace",
+    "editor.fontSize": 16,
+    "files.autoSave": "afterDelay"
 }
